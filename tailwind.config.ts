@@ -47,6 +47,13 @@ export default {
           DEFAULT: "hsl(var(--card))",
           foreground: "hsl(var(--card-foreground))",
         },
+        assessment: {
+          primary: "hsl(var(--assessment-primary))",
+          secondary: "hsl(var(--assessment-secondary))",
+          neutral: "hsl(var(--assessment-neutral))",
+          'bg-subtle': "hsl(var(--assessment-bg-subtle))",
+          border: "hsl(var(--assessment-border))",
+        },
         sidebar: {
           DEFAULT: "hsl(var(--sidebar-background))",
           foreground: "hsl(var(--sidebar-foreground))",
